@@ -36,5 +36,5 @@ Desafio: Criar um jogo de Sudoku em Java com menu interativo e regras básicas d
 
 ---
 
-## 📦 Estrutura do projeto
+
 
