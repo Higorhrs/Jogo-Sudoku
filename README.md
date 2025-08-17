@@ -1,2 +1,2 @@
 # Jogo-Sudoku
-Jogo Sudoku
+Desafio Jogo Sudoku
