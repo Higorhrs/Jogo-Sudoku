@@ -4,12 +4,12 @@ import java.util.Scanner;
 import modelo.Tabuleiro;
 
 
-public class jogo {
+public class JogoSudoku {
 	
 	private final Tabuleiro tabuleiro;
 	private final Scanner sc;
 	
-	public jogo(Tabuleiro tabuleiro, Scanner sc) {
+	public JogoSudoku(Tabuleiro tabuleiro, Scanner sc) {
 		this.tabuleiro = tabuleiro;
 		this.sc = new Scanner(System.in);
 	}
