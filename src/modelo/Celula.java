@@ -1,12 +1,12 @@
 package modelo;
 
-public class celula {
+public class Celula {
 	
 	private int valor;
 	private final boolean fixa;
 	
 	
-	public celula(int valor, boolean fixa) {
+	public Celula(int valor, boolean fixa) {
 		this.valor = valor;
 		this.fixa = fixa;
 	}
